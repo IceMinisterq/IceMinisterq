@@ -12,8 +12,8 @@
 
 #
 ```diff
-👤 >> 16 years old, French developper.
-🗣️ >> sysys.owo@gmail.com
-🐺 >> Learn js, python and other
+🧙‍♂️ >> 16 years old, French developper.
+🔗 >> iceministerq@proton.me
+🐬 >> Luau (Roblox)
 ```
 #

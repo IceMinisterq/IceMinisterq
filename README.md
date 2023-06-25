@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>🧙‍♂️ Follow me here:</b><br>
-  <a href="[https://www.youtube.com/c/IceMinisterq]">YouTube</a> |
-  <a href="https://github.com/Sysys242">Github</a>
+  <a href="https://www.youtube.com/c/IceMinisterq">YouTube</a> |
+  <a href="https://github.com/IceMinisterq">Github</a>
   <br><br>
   <img src="https://cdn.discordapp.com/attachments/828633564672294993/1122625358450131055/E0pubDfXoAQANrU.jpeg" width="300" height="300">
   <br><br>

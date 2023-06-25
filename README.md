@@ -7,7 +7,7 @@
   <br><br>
   <img src="https://cdn.discordapp.com/attachments/828633564672294993/1122625358450131055/E0pubDfXoAQANrU.jpeg" width="564/3" height="734/3">
   <br><br>
-  <img src="discordapp.com/users/828627902781849660">
+  <a href = "https://discordapp.com/users/828627902781849660">
 </p>
 
 #

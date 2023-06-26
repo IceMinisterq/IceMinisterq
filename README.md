@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <a href="iceministera@proton.me" target="_blank">
+  <a href="mailto:iceministera@proton.me" target="_blank">
     <img src="https://cdn.discordapp.com/attachments/828633564672294993/1122694157597675581/proton-mail-logo-31D8CDC79E-seeklogo.png" width="47" height="35" />
   </a>
   <a href="https://www.youtube.com/channel/UCEGhcDAk92crZ5eSWNlcn0w" target="_blank">

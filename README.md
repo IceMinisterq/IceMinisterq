@@ -15,9 +15,10 @@
 
 ###
 
-<br clear="both">
-
-<div align="right">
+<div align="center">
+  <a href="iceministera@proton.me" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/828633564672294993/1122694157597675581/proton-mail-logo-31D8CDC79E-seeklogo.png" width="47" height="35" alt="proton logo"  />
+  </a>
   <a href="https://www.youtube.com/channel/UCEGhcDAk92crZ5eSWNlcn0w" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   </a>
@@ -28,7 +29,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />

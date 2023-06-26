@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! I'm Iceminister (AKA getgc or ice), i'm a 16 years old French developer</h2>
+<h2 align="center">Hi 👋! I'm Iceminister, AKA getgc or ice, i'm a 16 years old French developer</h2>
 
 ###
 

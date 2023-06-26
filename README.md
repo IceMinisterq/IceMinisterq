@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Iceminister, i'm a 16 years old French developer</h2>
+<h2 align="center">Hi 👋! I'm Iceminister (AKA getgc), i'm a 16 years old French developer</h2>
 
 ###
 

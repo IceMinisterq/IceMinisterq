@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="150" src="https://cdn.discordapp.com/avatars/828627902781849660/10af3e1e1acd37cc0af38659b2779015.webp"  />
+  <kbd>
+      <img height="150" src="https://cdn.discordapp.com/avatars/828627902781849660/10af3e1e1acd37cc0af38659b2779015.webp"  />
+  </kbd>
 </div>
 
 ###
